@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Village Green -->
+    <color name="primary_green">#2E7D32</color>
+    <color name="primary_light_green">#60AD5E</color>
+    <color name="primary_dark_green">#005005</color>
+
+    <!-- Secondary Earthy Brown -->
+    <color name="secondary_brown">#795548</color>
+    <color name="secondary_light_brown">#A98274</color>
+    <color name="secondary_dark_brown">#4B2C20</color>
+
+    <!-- Accent Safety Red -->
+    <color name="safety_red">#D32F2F</color>
+
+    <!-- Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_800">#424242</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#388E3C</color>
+    <color name="gradient_end">#5D4037</color>
+</resources>

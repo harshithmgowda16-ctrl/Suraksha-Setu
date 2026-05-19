@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Suraksha-Setu</string>
+    <string name="app_title">Suraksha-Setu</string>
+    <string name="app_subtitle">Hyper-Local Safety Network</string>
+    
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="village_name">Village Name</string>
+    <string name="gender">Gender</string>
+    
+    <!-- Dashboard -->
+    <string name="sos">SOS</string>
+    <string name="safe_circle">Safe Circle</string>
+    <string name="volunteer_mode">Volunteer Mode</string>
+    <string name="emergency_tips">Emergency Tips</string>
+    <string name="live_location">Live Location: Active</string>
+</resources>
